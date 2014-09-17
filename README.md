@@ -28,24 +28,24 @@ The starting list of protobuf bindings: https://github.com/google/protobuf/wiki/
 
 but specifically:
 
-golang (demonstrated in pebblezgo)
+* golang (demonstrated in [pebblezgo](https://github.com/mailgun/pebblezgo))
 
-luajit ( https://github.com/Neopallium/lua-zmq  +  https://github.com/Neopallium/lua-pb )
+* luajit ( https://github.com/Neopallium/lua-zmq  +  https://github.com/Neopallium/lua-pb )
 
-python (pip install pyzmq / protocol buffer support shipped from google in the protobuf package)
+* python (pip install pyzmq / protocol buffer support shipped from google in the protobuf package)
 
-java (yes)
+* java (yes)
 
-c++ (yes)
+* c++ (yes)
 
-php (the universe should forbid anyone ever use php ever again, but yes)
+* php (the universe should forbid anyone ever use php ever again, but yes)
 
-javascript (on node, yes. on browser, can be gatewayed: github.com/dcodeIO/ProtoBuf.js + http://stackoverflow.com/questions/8145060/zeromq-in-javascript-client )
+* javascript (on node, yes. on browser, can be gatewayed: github.com/dcodeIO/ProtoBuf.js + http://stackoverflow.com/questions/8145060/zeromq-in-javascript-client )
 
-ruby (somebody wrote a gateway; http://avalanche123.com/blog/2012/02/25/interacting-with-zeromq-from-the-browser/  and https://github.com/progrium/nullmq/tree/master/demos/presence )
+* ruby (somebody wrote a gateway; http://avalanche123.com/blog/2012/02/25/interacting-with-zeromq-from-the-browser/  and https://github.com/progrium/nullmq/tree/master/demos/presence )
 
 
-Hence: No need for crappy/impossible to maintain/impossible to refactor dynamic typing ever again. Type strong schema for everyone!  Plus evolve-able protocols (add/depricate fields over time).
+Hence: No need for crappy/impossible to maintain/impossible to refactor/slow dynamic-typing ever again. Type strong schema for everyone!  Plus evolve-able protocols (add/depricate fields over time).
 
 Kindest regards,
 Jason
