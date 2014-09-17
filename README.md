@@ -14,7 +14,7 @@ N.B. All [Flintstones](http://en.wikipedia.org/wiki/The_Flintstones) references 
 
 What I like about protobuf over zeromq is that it is SO DARN UNIVERSAL.
 
-Sure the next generation tech ([capnproto](http://kentonv.github.io/capnproto/) over [nanomsg](http://nanomsg.org/), or [flatbuffers](http://google.github.io/flatbuffers/)) will be more scalable and has more features (see my [gozbus repo](https://github.com/glycerine/gozbus) for example), but the language support (e.g. in gogoprotobuf) is freaking amazing. 
+Sure the bleeding-edge next-generation tech ([capnproto](http://kentonv.github.io/capnproto/) over [nanomsg](http://nanomsg.org/), or [flatbuffers](http://google.github.io/flatbuffers/)) will be more scalable and has more features (see my [gozbus repo](https://github.com/glycerine/gozbus) for example), but the language support (e.g. in gogoprotobuf) is freaking amazing. 
 
 *AND* this is the biggie: It works in [R](http://www.r-project.org/) (yeeeeesssss!!), as the [pebblezgo project](https://github.com/mailgun/pebblezgo) demonstrates.
 
