@@ -47,7 +47,11 @@ but specifically:
 
 Hence: No need for crappy/impossible to maintain/impossible to refactor/slow dynamic-typing ever again. Type strong schema for everyone!  Plus evolve-able protocols (add/depricate fields over time).
 
+
+
 Kindest regards,
+
 Jason
+
 
 p.s. Plus there is a security wrapper available too, http://curvezmq.org/. SWEET!!
