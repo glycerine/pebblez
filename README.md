@@ -42,6 +42,8 @@ but specifically:
 
 * javascript (on node, yes. on browser, can be gatewayed: github.com/dcodeIO/ProtoBuf.js + http://stackoverflow.com/questions/8145060/zeromq-in-javascript-client )
 
+Bonus: gogoprotobuf adds the JSON annotations to your structs automatically, making exporting your messages to JSON completely trivial.
+
 * ruby (somebody wrote a gateway; http://avalanche123.com/blog/2012/02/25/interacting-with-zeromq-from-the-browser/  and https://github.com/progrium/nullmq/tree/master/demos/presence )
 
 
