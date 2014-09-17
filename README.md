@@ -57,3 +57,5 @@ Jason
 
 
 p.s. Plus there is a security wrapper available too, http://curvezmq.org/. SWEET!!
+
+p.p.s. Obviously my next project with this technology must be called [BamBam](https://github.com/glycerine/bambam) </flintstones reference>
