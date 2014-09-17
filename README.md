@@ -7,7 +7,7 @@ See the Golang and R demonstration project here:
 
 [https://github.com/mailgun/pebblezgo](https://github.com/mailgun/pebblezgo)
 
-A Letter on Why Pebblez rocks
+A Letter on Why Pebblez Rocks
 =================
 
 N.B. All Flintstones references appreciated. :D
