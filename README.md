@@ -45,7 +45,7 @@ but specifically:
 * ruby (somebody wrote a gateway; http://avalanche123.com/blog/2012/02/25/interacting-with-zeromq-from-the-browser/  and https://github.com/progrium/nullmq/tree/master/demos/presence )
 
 
-Hence: No need for crappy/impossible to maintain/impossible to refactor/slow dynamic-typing ever again. Type strong schema for everyone!  Plus evolve-able protocols (add/depricate fields over time).
+Hence: No need for crappy/impossible to maintain/impossible to refactor/slow dynamic-typing ever again. Type strong schema for everyone!  Plus evolve-able protocols (add/deprecate fields over time).
 
 
 
