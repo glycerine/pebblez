@@ -30,7 +30,7 @@ but specifically:
 
 * golang (demonstrated in [pebblezgo](https://github.com/mailgun/pebblezgo))
 
-* luajit ( https://github.com/Neopallium/lua-zmq  +  https://github.com/Neopallium/lua-pb )
+* lua/luajit ( https://github.com/Neopallium/lua-zmq  +  https://github.com/Neopallium/lua-pb )
 
 * python (pip install pyzmq / protocol buffer support shipped from google in the protobuf package)
 
