@@ -1,7 +1,7 @@
 pebblez
 =======
 
-pebblez is using protocol buffers over zeromq. This is a lego technology: snap together two pieces of existing, well-engineered technology.
+The word pebblez, as a [portmanteau](http://en.wikipedia.org/wiki/Portmanteau), means using protocol buffers over zeromq. This is a lego technology: snap together two pieces of existing, well-engineered technology.
 
 See the Golang and R demonstration project here:
 
