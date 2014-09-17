@@ -10,13 +10,13 @@ See the Golang and R demonstration project here:
 A Letter on Why Pebblez Rocks
 =================
 
-N.B. All Flintstones references appreciated. :D
+N.B. All [Flintstones](http://en.wikipedia.org/wiki/The_Flintstones) references appreciated. :D
 
 What I like about protobuf over zeromq is that it is SO DARN UNIVERSAL.
 
 Sure the next generation tech (capnproto over nanomsg) will be more scalable and has more features (see my [gozbus repo](https://github.com/glycerine/gozbus) for example), but the language support (e.g. in gogoprotobuf) is freaking amazing. 
 
-*AND* this is the biggie: It works in R (yeeeeesssss!!), as the [pebblezgo project](https://github.com/mailgun/pebblezgo) demonstrates.
+*AND* this is the biggie: It works in [R](http://www.r-project.org/) (yeeeeesssss!!), as the [pebblezgo project](https://github.com/mailgun/pebblezgo) demonstrates.
 
 And it is not just for R, because *everybody* and their dog has a pebblez transport available!
 
@@ -28,9 +28,9 @@ The starting list of protobuf bindings: https://github.com/google/protobuf/wiki/
 
 but specifically:
 
-* R : install.packages(c("rzmq","RProtoBuf"))
+* [R](http://www.r-project.org/) : install.packages(c("rzmq","RProtoBuf"))
 
-* golang (demonstrated in [pebblezgo](https://github.com/mailgun/pebblezgo))
+* [golang](http://golang.org/) (demonstrated in [pebblezgo](https://github.com/mailgun/pebblezgo))
 
 * lua/luajit ( https://github.com/Neopallium/lua-zmq  +  https://github.com/Neopallium/lua-pb )
 
