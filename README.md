@@ -42,7 +42,7 @@ but specifically:
 
 * php (the universe should forbid anyone ever use php ever again, but yes)
 
-* javascript (on node, yes. on browser, can be gatewayed: github.com/dcodeIO/ProtoBuf.js + http://stackoverflow.com/questions/8145060/zeromq-in-javascript-client )
+* javascript (on node, yes. on browser, can be gatewayed: https://github.com/dcodeIO/ProtoBuf.js + http://stackoverflow.com/questions/8145060/zeromq-in-javascript-client )
 
 Bonus: gogoprotobuf adds the JSON annotations to your structs automatically, making exporting your messages to JSON completely trivial.
 
@@ -50,6 +50,12 @@ Bonus: gogoprotobuf adds the JSON annotations to your structs automatically, mak
 
 
 Hence: No need for crappy/impossible to maintain/impossible to refactor/slow dynamic-typing ever again. Type strong schema for everyone!  Plus evolve-able protocols (add/deprecate fields over time).
+
+Additional Guidance on how to switch on messages:
+
+* [Tagging messages during pub/sub](http://www.dotkam.com/2011/09/09/zeromq-and-google-protocol-buffers/)
+
+* [Identifying different event messages with a union](https://developers.google.com/protocol-buffers/docs/techniques#union)
 
 
 
